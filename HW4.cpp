@@ -170,6 +170,9 @@ int unValues(std::vector<int> a)
 	return a.size();
 };
 #pragma endregion
+#pragma region Task3
+
+#pragma endregion
 
 int main()
 {
